@@ -1,0 +1,182 @@
+[30-8-2018 3:29:24:622/Server]: Servidor iniciado
+[2-9-2018 0:23:27:124/Server]: Servidor iniciado
+[2-9-2018 0:23:27:124/ERROR-Cliente]: Cliente validado exitosamente.
+[2-9-2018 0:23:48:740/Cliente]: erik se conecto a localhost/127.0.0.1
+[2-9-2018 0:23:27:124/Server]: Nuevo cliente aceptado (erik).
+[2-9-2018 0:24:2:121/Cliente]: erik se ha unido a la sala.
+[2-9-2018 0:23:27:124/ERROR-Cliente]: Cliente repetido.
+[2-9-2018 0:23:27:124/ERROR-Cliente]: Cliente validado exitosamente.
+[2-9-2018 0:24:7:920/Cliente]: jorge se conecto a localhost/127.0.0.1
+[2-9-2018 0:23:27:124/Server]: Nuevo cliente aceptado (jorge).
+[2-9-2018 0:24:16:284/Cliente]: jorge se ha unido a la sala.
+[2-9-2018 0:24:7:920/Cliente]: [jorge] envio: holoaaa.
+[2-9-2018 0:24:16:284/Server]: Mensaje reenviado a todos los clientes.
+[2-9-2018 0:23:48:740/Cliente]: [erik] envio: jajaja.
+[2-9-2018 0:24:2:121/Server]: Mensaje reenviado a todos los clientes.
+[2-9-2018 0:23:48:740/Cliente]: erik se ha desconectado.
+[2-9-2018 0:23:27:124/ERROR-Cliente]: Cliente validado exitosamente.
+[2-9-2018 0:23:48:740/Cliente]: erik1 se conecto a localhost/127.0.0.1
+[2-9-2018 0:23:27:124/Server]: Nuevo cliente aceptado (erik1).
+[2-9-2018 0:24:50:959/Cliente]: erik1 se ha unido a la sala.
+[2-9-2018 0:22:42:132/server]: Server cerrado.
+[2-9-2018 0:24:50:959/Server]: Cerrando sala.
+[2-9-2018 0:23:27:124/ERROR-Server]:Socket Cerrado.
+[2-9-2018 0:24:7:920/Cliente]: jorge se ha desconectado.
+[2-9-2018 0:23:48:740/Cliente]: erik1 se ha desconectado.
+[2-9-2018 0:23:48:740/ERROR-Cliente]: Socket no encontrado.
+[2-9-2018 0:23:48:740/ERROR-Cliente]: Socket no encontrado.
+[15-9-2018 8:34:20:428/Server]: Servidor iniciado
+[15-9-2018 8:34:25:568/ERROR-Server]: Error al iniciar servidor.
+[15-9-2018 8:34:26:691/ERROR-Server]: Error al iniciar servidor.
+[15-9-2018 8:34:26:847/ERROR-Server]: Error al iniciar servidor.
+[15-9-2018 8:34:27:5/ERROR-Server]: Error al iniciar servidor.
+[15-9-2018 8:34:27:163/ERROR-Server]: Error al iniciar servidor.
+[15-9-2018 8:34:27:309/ERROR-Server]: Error al iniciar servidor.
+[15-9-2018 8:34:27:453/ERROR-Server]: Error al iniciar servidor.
+[15-9-2018 8:38:46:530/ERROR-Server]: Error al iniciar servidor.
+[15-9-2018 8:39:22:824/ERROR-Server]: Error al iniciar servidor.
+[15-9-2018 8:39:23:684/ERROR-Server]: Error al iniciar servidor.
+[15-9-2018 8:39:23:994/ERROR-Server]: Error al iniciar servidor.
+[15-9-2018 8:39:24:143/ERROR-Server]: Error al iniciar servidor.
+[15-9-2018 8:39:24:275/ERROR-Server]: Error al iniciar servidor.
+[15-9-2018 8:39:24:409/ERROR-Server]: Error al iniciar servidor.
+[15-9-2018 8:39:24:538/ERROR-Server]: Error al iniciar servidor.
+[15-9-2018 8:39:59:74/ERROR-Server]: Error al iniciar servidor.
+[15-9-2018 8:41:13:326/ERROR-Server]: Error al iniciar servidor.
+[15-9-2018 8:43:23:253/Server]: Servidor iniciado
+[15-9-2018 8:44:54:322/ERROR-Server]: Error al iniciar servidor.
+[15-9-2018 8:44:59:439/Server]: Servidor iniciado
+[15-9-2018 8:45:37:718/ERROR-Server]: Error al iniciar servidor.
+[15-9-2018 8:45:42:93/Server]: Servidor iniciado
+[15-9-2018 8:45:45:813/ERROR-Server]: Error al iniciar servidor.
+[15-9-2018 8:45:50:140/ERROR-Server]: Error al iniciar servidor.
+[15-9-2018 8:45:50:343/ERROR-Server]: Error al iniciar servidor.
+[15-9-2018 8:45:50:501/ERROR-Server]: Error al iniciar servidor.
+[15-9-2018 8:45:50:623/ERROR-Server]: Error al iniciar servidor.
+[15-9-2018 8:45:50:753/ERROR-Server]: Error al iniciar servidor.
+[15-9-2018 8:45:50:896/ERROR-Server]: Error al iniciar servidor.
+[15-9-2018 8:45:51:29/ERROR-Server]: Error al iniciar servidor.
+[15-9-2018 8:46:49:445/Server]: Servidor iniciado
+[15-9-2018 8:46:49:445/ERROR-Server]:Socket Cerrado.
+[15-9-2018 8:46:51:553/Server]: Servidor iniciado
+[15-9-2018 8:46:51:553/ERROR-Server]:Socket Cerrado.
+[15-9-2018 8:46:53:11/Server]: Servidor iniciado
+[15-9-2018 8:46:53:11/ERROR-Server]:Socket Cerrado.
+[15-9-2018 8:46:53:845/Server]: Servidor iniciado
+[15-9-2018 8:46:53:845/ERROR-Server]:Socket Cerrado.
+[15-9-2018 8:46:54:571/Server]: Servidor iniciado
+[15-9-2018 8:46:54:571/ERROR-Server]:Socket Cerrado.
+[15-9-2018 8:46:55:295/Server]: Servidor iniciado
+[15-9-2018 8:46:55:295/ERROR-Server]:Socket Cerrado.
+[15-9-2018 8:46:56:6/Server]: Servidor iniciado
+[15-9-2018 8:46:56:6/ERROR-Server]:Socket Cerrado.
+[15-9-2018 8:46:56:633/Server]: Servidor iniciado
+[15-9-2018 8:46:56:633/ERROR-Server]:Socket Cerrado.
+[16-9-2018 9:32:33:92/Server]: Servidor iniciado
+[16-9-2018 9:32:33:92/ERROR-Server]:Socket Cerrado.
+[16-9-2018 9:35:17:663/Server]: Servidor iniciado
+[16-9-2018 9:35:17:663/ERROR-Server]:Socket Cerrado.
+[16-9-2018 9:35:20:777/Server]: Servidor iniciado
+[16-9-2018 9:35:20:777/ERROR-Server]:Socket Cerrado.
+[16-9-2018 10:18:17:449/Server]: Servidor iniciado
+[16-9-2018 10:18:17:449/ERROR-Server]:Socket Cerrado.
+[16-9-2018 10:18:31:722/Server]: Servidor iniciado
+[16-9-2018 10:19:34:225/Server]: Servidor iniciado
+[16-9-2018 10:19:40:110/ERROR-Server]: Error al iniciar servidor.
+[16-9-2018 10:19:47:444/ERROR-Server]: Error al iniciar servidor.
+[16-9-2018 10:19:47:613/ERROR-Server]: Error al iniciar servidor.
+[16-9-2018 10:19:47:770/ERROR-Server]: Error al iniciar servidor.
+[16-9-2018 10:19:47:937/ERROR-Server]: Error al iniciar servidor.
+[16-9-2018 10:19:48:143/ERROR-Server]: Error al iniciar servidor.
+[16-9-2018 10:19:48:313/ERROR-Server]: Error al iniciar servidor.
+[16-9-2018 10:19:48:461/ERROR-Server]: Error al iniciar servidor.
+[16-9-2018 10:19:48:604/ERROR-Server]: Error al iniciar servidor.
+[16-9-2018 10:19:48:760/ERROR-Server]: Error al iniciar servidor.
+[16-9-2018 10:19:48:918/ERROR-Server]: Error al iniciar servidor.
+[16-9-2018 10:25:44:398/Server]: Servidor iniciado
+[16-9-2018 10:25:44:398/ERROR-Server]:Socket Cerrado.
+[16-9-2018 10:25:49:441/Server]: Servidor iniciado
+[16-9-2018 10:25:49:441/ERROR-Server]:Socket Cerrado.
+[16-9-2018 10:26:41:313/Server]: Servidor iniciado
+[16-9-2018 10:26:41:313/ERROR-Server]:Socket Cerrado.
+[16-9-2018 10:27:2:76/Server]: Servidor iniciado
+[16-9-2018 10:27:2:76/ERROR-Server]:Socket Cerrado.
+[16-9-2018 10:27:3:845/Server]: Servidor iniciado
+[16-9-2018 10:27:3:845/ERROR-Server]:Socket Cerrado.
+[16-9-2018 11:2:29:156/Server]: Servidor iniciado
+[16-9-2018 11:2:29:156/ERROR-Server]:Socket Cerrado.
+[16-9-2018 11:58:53:820/Server]: Servidor iniciado
+[16-9-2018 11:58:53:820/ERROR-Server]: Excepcion catcheada : null
+[17-9-2018 0:1:16:94/Server]: Servidor iniciado
+[17-9-2018 0:1:16:94/ERROR-Server]: Excepcion catcheada : null
+[17-9-2018 0:4:11:722/Server]: Servidor iniciado
+[17-9-2018 0:4:11:722/ERROR-Server]: Excepcion catcheada : null
+[17-9-2018 0:8:18:661/Server]: Servidor iniciado
+[17-9-2018 0:8:18:661/ERROR-Server]: Excepcion catcheada : Unknown column 'codigo' in 'where clause'
+[17-9-2018 0:13:22:976/Server]: Servidor iniciado
+[17-9-2018 0:13:22:976/ERROR-Server]: Excepcion catcheada : Unknown column 'codigo' in 'where clause'
+[17-9-2018 0:15:25:547/Server]: Servidor iniciado
+[17-9-2018 0:15:25:547/ERROR-Server]:Socket Cerrado.
+[17-9-2018 0:22:10:897/Server]: Servidor iniciado
+[17-9-2018 0:22:10:897/Server]: Nuevo cliente aceptado (null).
+[17-9-2018 0:23:54:528/Cliente]: null se ha unido a la sala.
+[17-9-2018 0:23:54:528/Server]: Cerrando sala.
+[19-9-2018 8:44:15:863/Server]: Servidor iniciado
+[19-9-2018 8:44:15:863/Server]: Nuevo cliente aceptado (null).
+[19-9-2018 8:44:15:863/ERROR-Server]:Socket Cerrado.
+[19-9-2018 9:0:9:590/Server]: Servidor iniciado
+[19-9-2018 9:0:9:590/Server]: Nuevo cliente aceptado (null).
+[19-9-2018 9:0:9:590/ERROR-Server]:Socket Cerrado.
+[20-9-2018 1:13:20:858/Server]: Servidor iniciado
+[20-9-2018 1:13:20:858/ERROR-Server]:Socket Cerrado.
+[20-9-2018 1:13:23:291/Server]: Servidor iniciado
+[20-9-2018 1:13:23:291/ERROR-Server]:Socket Cerrado.
+[20-9-2018 1:13:25:911/Server]: Servidor iniciado
+[20-9-2018 1:13:25:911/ERROR-Server]:Socket Cerrado.
+[20-9-2018 1:13:40:597/Server]: Servidor iniciado
+[20-9-2018 1:13:47:991/ERROR-Server]: Error al iniciar servidor.
+[20-9-2018 1:13:48:995/ERROR-Server]: Error al iniciar servidor.
+[20-9-2018 1:13:49:145/ERROR-Server]: Error al iniciar servidor.
+[20-9-2018 1:13:49:282/ERROR-Server]: Error al iniciar servidor.
+[20-9-2018 1:13:49:426/ERROR-Server]: Error al iniciar servidor.
+[20-9-2018 1:13:49:573/ERROR-Server]: Error al iniciar servidor.
+[20-9-2018 1:13:49:726/ERROR-Server]: Error al iniciar servidor.
+[20-9-2018 1:13:49:848/ERROR-Server]: Error al iniciar servidor.
+[20-9-2018 1:13:49:993/ERROR-Server]: Error al iniciar servidor.
+[20-9-2018 1:13:50:136/ERROR-Server]: Error al iniciar servidor.
+[20-9-2018 1:13:50:269/ERROR-Server]: Error al iniciar servidor.
+[20-9-2018 1:13:50:410/ERROR-Server]: Error al iniciar servidor.
+[20-9-2018 1:13:50:551/ERROR-Server]: Error al iniciar servidor.
+[20-9-2018 1:13:50:693/ERROR-Server]: Error al iniciar servidor.
+[20-9-2018 1:13:50:866/ERROR-Server]: Error al iniciar servidor.
+[20-9-2018 1:13:51:35/ERROR-Server]: Error al iniciar servidor.
+[20-9-2018 1:13:51:185/ERROR-Server]: Error al iniciar servidor.
+[20-9-2018 1:13:51:381/ERROR-Server]: Error al iniciar servidor.
+[20-9-2018 1:13:51:535/ERROR-Server]: Error al iniciar servidor.
+[20-9-2018 1:13:51:692/ERROR-Server]: Error al iniciar servidor.
+[20-9-2018 1:13:51:863/ERROR-Server]: Error al iniciar servidor.
+[20-9-2018 1:13:52:48/ERROR-Server]: Error al iniciar servidor.
+[20-9-2018 1:13:52:214/ERROR-Server]: Error al iniciar servidor.
+[20-9-2018 1:13:52:411/ERROR-Server]: Error al iniciar servidor.
+[20-9-2018 1:13:52:632/ERROR-Server]: Error al iniciar servidor.
+[20-9-2018 1:13:52:820/ERROR-Server]: Error al iniciar servidor.
+[20-9-2018 1:13:53:164/ERROR-Server]: Error al iniciar servidor.
+[20-9-2018 1:13:53:338/ERROR-Server]: Error al iniciar servidor.
+[20-9-2018 1:13:53:503/ERROR-Server]: Error al iniciar servidor.
+[20-9-2018 1:13:53:775/ERROR-Server]: Error al iniciar servidor.
+[20-9-2018 1:14:5:78/Server]: Servidor iniciado
+[20-9-2018 1:13:40:597/ERROR-Server]:Socket Cerrado.
+[20-9-2018 1:14:9:858/Server]: Servidor iniciado
+[20-9-2018 1:19:36:427/Server]: Servidor iniciado
+[20-9-2018 1:19:36:427/ERROR-Server]:Socket Cerrado.
+[20-9-2018 1:19:41:15/Server]: Servidor iniciado
+[20-9-2018 1:19:41:15/ERROR-Server]:Socket Cerrado.
+[20-9-2018 1:27:37:987/Server]: Servidor iniciado
+[20-9-2018 1:27:37:987/Server]: Nuevo cliente aceptado (null).
+[20-9-2018 5:11:8:372/Server]: Servidor iniciado
+[20-9-2018 5:11:8:372/Server]: Nuevo cliente aceptado (null).
+[20-9-2018 5:11:8:372/ERROR-Server]:Socket Cerrado.
+[20-9-2018 5:12:40:386/Server]: Servidor iniciado
+[20-9-2018 5:12:40:386/Server]: Nuevo cliente aceptado (null).
+[20-9-2018 5:17:14:216/Server]: Servidor iniciado
+[20-9-2018 5:17:14:216/Server]: Nuevo cliente aceptado (null).

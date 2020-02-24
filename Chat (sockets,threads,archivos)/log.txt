@@ -1,0 +1,27 @@
+[30-8-2018 3:29:24:622/Server]: Servidor iniciado
+[2-9-2018 0:23:27:124/Server]: Servidor iniciado
+[2-9-2018 0:23:27:124/ERROR-Cliente]: Cliente validado exitosamente.
+[2-9-2018 0:23:48:740/Cliente]: erik se conecto a localhost/127.0.0.1
+[2-9-2018 0:23:27:124/Server]: Nuevo cliente aceptado (erik).
+[2-9-2018 0:24:2:121/Cliente]: erik se ha unido a la sala.
+[2-9-2018 0:23:27:124/ERROR-Cliente]: Cliente repetido.
+[2-9-2018 0:23:27:124/ERROR-Cliente]: Cliente validado exitosamente.
+[2-9-2018 0:24:7:920/Cliente]: jorge se conecto a localhost/127.0.0.1
+[2-9-2018 0:23:27:124/Server]: Nuevo cliente aceptado (jorge).
+[2-9-2018 0:24:16:284/Cliente]: jorge se ha unido a la sala.
+[2-9-2018 0:24:7:920/Cliente]: [jorge] envio: holoaaa.
+[2-9-2018 0:24:16:284/Server]: Mensaje reenviado a todos los clientes.
+[2-9-2018 0:23:48:740/Cliente]: [erik] envio: jajaja.
+[2-9-2018 0:24:2:121/Server]: Mensaje reenviado a todos los clientes.
+[2-9-2018 0:23:48:740/Cliente]: erik se ha desconectado.
+[2-9-2018 0:23:27:124/ERROR-Cliente]: Cliente validado exitosamente.
+[2-9-2018 0:23:48:740/Cliente]: erik1 se conecto a localhost/127.0.0.1
+[2-9-2018 0:23:27:124/Server]: Nuevo cliente aceptado (erik1).
+[2-9-2018 0:24:50:959/Cliente]: erik1 se ha unido a la sala.
+[2-9-2018 0:22:42:132/server]: Server cerrado.
+[2-9-2018 0:24:50:959/Server]: Cerrando sala.
+[2-9-2018 0:23:27:124/ERROR-Server]:Socket Cerrado.
+[2-9-2018 0:24:7:920/Cliente]: jorge se ha desconectado.
+[2-9-2018 0:23:48:740/Cliente]: erik1 se ha desconectado.
+[2-9-2018 0:23:48:740/ERROR-Cliente]: Socket no encontrado.
+[2-9-2018 0:23:48:740/ERROR-Cliente]: Socket no encontrado.
